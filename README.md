@@ -1,0 +1,1 @@
+Esta práctica realizada en clase en la assignatura de progrmación, es uno de mis primeros contactos con la progrmación orientada a objetos. Le tengo especial cariño, consiste en una especide de "juego" donde un superviviente recorre una ciudad con tal de sobrevivir. 
